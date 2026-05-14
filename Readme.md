@@ -21,5 +21,4 @@ python loaddata.py
 | File | Description |
 |---|---|
 | `Regression/loaddata.py` | Entry point. To explore sklearn dataloaders|
-| `Regression/loadDataSets.py` | A machine learning preprocessing pipeline built on the sklearn Diabetes dataset.  
-Covers exploratory data analysis, train-test splitting, feature scaling, and correlation analysis.|
+| `Regression/loadDataSets.py` | A machine learning preprocessing pipeline built on the sklearn Diabetes dataset.Covers exploratory data analysis, train-test splitting, feature scaling, and correlation analysis.|
